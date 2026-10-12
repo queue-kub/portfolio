@@ -96,11 +96,11 @@
 
 **Desktop**
 
-![Desktop](images/desktop.png)
+![Desktop](img/desktop.png)
 
 **Mobile**
 
-<img src="images/mobile.png" alt="Mobile" width="320">
+<img src="img/mobile.png" alt="Mobile" width="320">
 
 ## 7. ปัญหาที่พบและวิธีแก้ไข
 
